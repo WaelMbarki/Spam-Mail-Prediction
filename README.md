@@ -30,10 +30,10 @@ Data source : [Download](https://drive.google.com/file/d/1uzbhec5TW_OjFr4UUZkoMm
 
 2-Data exploration
 
-2-Data Preprocessing
+3-Data Preprocessing
 
-3-Model Building
+4-Model Building
 
-4-Model Evaluation
+5-Model Evaluation
 
-5-Building a predictive system
+6-Building a predictive system
